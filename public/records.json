@@ -1,14 +1,20 @@
 [
   {
-    "id": 1735038619233,
-    "title": "Sarif",
+    "id": 1735042864130,
+    "title": "Sarif ",
     "description": "Sarif is a developer",
-    "file": "/public/Sarif Resume.jpg"
+    "file": "/Sarif Resume.jpg"
   },
   {
-    "id": 1735038772310,
-    "title": "Alone Boy",
-    "description": "I am Aloneeeeeee",
+    "id": 1735044176775,
+    "title": "Jaki",
+    "description": "Jaki the choto vai",
+    "file": "/alone.jpg"
+  },
+  {
+    "id": 1735049549489,
+    "title": "Rihab",
+    "description": "Rihab is a boy",
     "file": "/alone.jpg"
   }
 ]
